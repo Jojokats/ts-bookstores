@@ -583,9 +583,9 @@ M E D I A  Q U E R I E S
     margin-top: 6rem;
     padding-top: 3.5rem;
     padding-bottom: 2rem;
-    letter-spacing: 3px; }
+    letter-spacing: 2px; }
   #contact .primary-overlay {
-    background: rgba(0, 0, 0, 0.5);
+    background: rgba(0, 0, 0, 0.6);
     position: absolute;
     top: 0;
     left: 0;
