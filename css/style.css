@@ -595,8 +595,7 @@ M E D I A  Q U E R I E S
 #contact-us {
   position: relative;
   min-height: 350px;
-  padding: 100px 0 100px;
-  background-color: rgba(0, 0, 0, 0.05); }
+  padding: 100px 0 100px; }
   #contact-us .description span {
     font-family: "Muli", sans-serif;
     font-weight: 700; }
@@ -612,17 +611,9 @@ M E D I A  Q U E R I E S
       -moz-transition: color .5s ease-out, color 0.5s ease-in;
       -webkit-transition: color .5s ease-out, color 0.5s ease-in;
       transition: color .5s ease-out, color 0.5s ease-in; }
-  #contact-us .developer .richard {
-    width: 40%;
-    height: 40%;
-    margin-bottom: 40px;
-    margin-top: 40px; }
-  #contact-us .developer .icons .fa {
-    color: #212529;
-    padding-right: 8px;
-    margin-top: 5px; }
-    #contact-us .developer .icons .fa:hover {
-      color: #17a2b8; }
+  #contact-us .icon-books {
+    padding-top: 50px;
+    padding-bottom: 25px; }
 
 #main-footer p {
   font-family: "Muli", sans-serif; }

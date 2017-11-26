@@ -32,7 +32,7 @@
   position: relative;
   min-height: 350px;
   padding: 100px 0 100px;
-  background-color: $background-dkGrey;
+  // background-color: $background-dkGrey;
 
   .description {
     span {
@@ -58,24 +58,30 @@
       }
     }
 
-    .developer {
-      .richard {
-        width:40%;
-        height:40%;
-        margin-bottom: 40px;
-        margin-top: 40px;
-      }
-
-      .icons .fa {
-        color: $body-color;
-        padding-right: 8px;
-        margin-top: 5px;
-
-        &:hover {
-          color: $accent-lg-blue;
-        }
-      }
+    .icon-books {
+      padding-top: 50px;
+      padding-bottom: 25px;
     }
+
+    // .developer {
+    //   .richard {
+    //     width:40%;
+    //     height:40%;
+    //     margin-bottom: 40px;
+    //     margin-top: 40px;
+    //   }
+
+    //   .icons .fa {
+    //     color: $body-color;
+    //     padding-right: 8px;
+    //     margin-top: 5px;
+
+    //     &:hover {
+    //       color: $accent-lg-blue;
+    //     }
+    //   }
+    // }
+
 }//contact-us
 
 #main-footer {
