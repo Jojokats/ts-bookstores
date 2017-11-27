@@ -36,7 +36,8 @@ h1, h2, h3, h4, h5, h6 {
     font-size: 2.5rem;
     padding-top: 3.5rem;
     padding-bottom: 2rem; }
-  #showcase p {
+  #showcase p.leadText {
+    font-size: 1.5rem;
     line-height: 1.4;
     padding: 0 1.8rem 1.5rem; }
   #showcase a.read {
@@ -242,9 +243,9 @@ M E D I A  Q U E R I E S
     font-size: 3.5rem !important;
     padding-right: 8rem;
     padding-left: 8rem; }
-  #showcase p {
-    padding-right: 12rem;
-    padding-left: 12rem; }
+  #showcase p.leadText {
+    padding: 0 10rem 1.5rem;
+    font-size: 1.8rem; }
 
   #home-heading p {
     padding-left: 150px;
